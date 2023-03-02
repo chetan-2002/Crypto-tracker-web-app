@@ -31,6 +31,18 @@ This web application was built using the following technologies:
 
 ## Snapshots
 
+1. Landing Page
+
+![image](https://user-images.githubusercontent.com/77783033/222423205-63548f4d-6517-4ad9-ac82-a7126078eb79.png)
+
+2. Prices of Latest Cryptocurrencies
+
+![image](https://user-images.githubusercontent.com/77783033/222423365-fbf2dd4c-4db0-4d8d-b1a0-839b40c4ff7f.png)
+
+3. Detailed Information about a particular cryptocurrency
+
+![image](https://user-images.githubusercontent.com/77783033/222423534-0de7ea74-7b3a-4845-91ac-aa99757ff9af.png)
+
 ## Contributing
 
 If you'd like to contribute to this project, please follow these steps:
